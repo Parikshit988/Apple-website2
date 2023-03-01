@@ -1,0 +1,112 @@
+.footer-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.socialmedia-icons{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+width: 112px;
+height: 24px;
+cursor: pointer;
+}
+
+.brandName{
+    width: 110px;
+    height: 32px;
+    left: 0px;
+    top: 13px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+
+}
+
+.footer-2{
+    display: flex;
+    width: 1440px;
+    height: 272px;
+    left: 0px;
+    top: 142px;
+    background: #FFFFFF;
+    
+}
+
+.footer-row{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 30px;
+    width: 1041px;
+    height: 170px;
+    justify-content: space-around;
+    margin: auto;
+    
+}
+
+.end-footer{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: 0.2px;
+        color: #737373;
+        margin: 50px 0  20px 210px;
+}
+
+.footer-section-column{
+padding: 0px;
+gap: 20px;
+
+}
+
+.about-us{
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: 0.2px;
+color: #737373;
+
+}
+
+.footer-header{
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: 0.1px;
+color: #252B42;
+}
+
+.email-input{
+    padding: 14px;
+}
+
+.subscribe-btn{
+    padding: 15px;    
+    box-sizing: border-box;
+    background: #23A6F0;
+    border: 1px solid #E6E6E6;
+    border-radius: 0px 5px 5px 0px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.line-break{
+    width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #E6E6E6;
+    border: none;
+}
